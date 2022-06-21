@@ -2,7 +2,7 @@
 
 namespace Task_2_1
 {
-    public class Product
+    public class Product : IComparable
     {
         public string Name { get; set; }
         public float Price { get; set; }
@@ -49,6 +49,21 @@ namespace Task_2_1
         public override string ToString()
         {
             return String.Format($"Name: {Name}, Price: {Price}, Weight: {Weight}");
+        }
+
+        public int CompareTo(object? obj)
+        {
+            int res = -1;
+
+            return (obj as Product)?.Name.CompareTo(this.Name) ?? -1;
+
+            //if(obj as Product == null)
+            //{
+            //    Console.WriteLine("NULL");
+            //    return res;
+            //}
+
+            //return this.Name.CompareTo(((Product)obj).Name);
         }
     }
 }

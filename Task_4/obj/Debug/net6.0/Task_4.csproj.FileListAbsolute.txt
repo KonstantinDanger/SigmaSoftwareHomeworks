@@ -1,0 +1,15 @@
+C:\Users\SerGun\Desktop\SigmaSoftwareHomework\SigmaSoftwareHomeworks_temp\Task_4\bin\Debug\net6.0\Task_4.exe
+C:\Users\SerGun\Desktop\SigmaSoftwareHomework\SigmaSoftwareHomeworks_temp\Task_4\bin\Debug\net6.0\Task_4.deps.json
+C:\Users\SerGun\Desktop\SigmaSoftwareHomework\SigmaSoftwareHomeworks_temp\Task_4\bin\Debug\net6.0\Task_4.runtimeconfig.json
+C:\Users\SerGun\Desktop\SigmaSoftwareHomework\SigmaSoftwareHomeworks_temp\Task_4\bin\Debug\net6.0\Task_4.dll
+C:\Users\SerGun\Desktop\SigmaSoftwareHomework\SigmaSoftwareHomeworks_temp\Task_4\bin\Debug\net6.0\ref\Task_4.dll
+C:\Users\SerGun\Desktop\SigmaSoftwareHomework\SigmaSoftwareHomeworks_temp\Task_4\bin\Debug\net6.0\Task_4.pdb
+C:\Users\SerGun\Desktop\SigmaSoftwareHomework\SigmaSoftwareHomeworks_temp\Task_4\obj\Debug\net6.0\Task_4.csproj.AssemblyReference.cache
+C:\Users\SerGun\Desktop\SigmaSoftwareHomework\SigmaSoftwareHomeworks_temp\Task_4\obj\Debug\net6.0\Task_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SerGun\Desktop\SigmaSoftwareHomework\SigmaSoftwareHomeworks_temp\Task_4\obj\Debug\net6.0\Task_4.AssemblyInfoInputs.cache
+C:\Users\SerGun\Desktop\SigmaSoftwareHomework\SigmaSoftwareHomeworks_temp\Task_4\obj\Debug\net6.0\Task_4.AssemblyInfo.cs
+C:\Users\SerGun\Desktop\SigmaSoftwareHomework\SigmaSoftwareHomeworks_temp\Task_4\obj\Debug\net6.0\Task_4.csproj.CoreCompileInputs.cache
+C:\Users\SerGun\Desktop\SigmaSoftwareHomework\SigmaSoftwareHomeworks_temp\Task_4\obj\Debug\net6.0\Task_4.dll
+C:\Users\SerGun\Desktop\SigmaSoftwareHomework\SigmaSoftwareHomeworks_temp\Task_4\obj\Debug\net6.0\ref\Task_4.dll
+C:\Users\SerGun\Desktop\SigmaSoftwareHomework\SigmaSoftwareHomeworks_temp\Task_4\obj\Debug\net6.0\Task_4.pdb
+C:\Users\SerGun\Desktop\SigmaSoftwareHomework\SigmaSoftwareHomeworks_temp\Task_4\obj\Debug\net6.0\Task_4.genruntimeconfig.cache
