@@ -1,0 +1,6 @@
+﻿iron     23     0.5
+cotton   24     3
+copper  55     0.2
+rubber  20     1
+diamond  5555     0.1
+copper  110     0.4
