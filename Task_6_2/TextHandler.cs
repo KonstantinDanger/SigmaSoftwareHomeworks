@@ -72,14 +72,14 @@ namespace Task_6_2
 
         public void DivideBySentences()
         {
-            string[] str = _text.Split(new char[] {' ', '\n'}, StringSplitOptions.RemoveEmptyEntries);
-            _text = string.Join(" ", str);
+            string[] str = _text.Split(new char[] {'\n', ' '}, StringSplitOptions.RemoveEmptyEntries);
+            string txt = String.Join(" ", str);
 
-            char[] text = _text.ToCharArray();
+            char[] text = txt.ToCharArray();
 
             for (int i = 0; i < text.Length; i++)
             {
-                if(text[i].Equals('.') && i != text.Length-1)
+                if(text[i] == '.' && i != text.Length-1)
                 {
                     text[i+1] = '\n';
                 }

@@ -4,8 +4,8 @@
     {
         static void Main()
         {
-            string dataPath = @"C:\Users\SerGun\Desktop\SigmaSoftwareHomework\Homeworks\Task_6\Data.txt";
-            string reportPath = @"C:\Users\SerGun\Desktop\SigmaSoftwareHomework\Homeworks\Task_6\Report.txt";
+            string dataPath = @"C:\Users\SerGun\Desktop\SigmaSoftwareHomework\Push\SigmaSoftwareHomeworks\Task_6\Data.txt";
+            string reportPath = @"C:\Users\SerGun\Desktop\SigmaSoftwareHomework\Push\SigmaSoftwareHomeworks\Task_6\Report.txt";
 
             ElectricityMetering metering = new ElectricityMetering();
             metering.GetDataFromFile(dataPath);

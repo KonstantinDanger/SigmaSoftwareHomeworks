@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SerGun\\Desktop\\SigmaSoftwareHomework\\Homeworks\\Task_6\\Task_6.csproj",
+      "projectUniqueName": "C:\\Users\\SerGun\\Desktop\\SigmaSoftwareHomework\\Push\\SigmaSoftwareHomeworks\\Task_6\\Task_6.csproj",
       "projectName": "Task_6",
-      "projectPath": "C:\\Users\\SerGun\\Desktop\\SigmaSoftwareHomework\\Homeworks\\Task_6\\Task_6.csproj",
+      "projectPath": "C:\\Users\\SerGun\\Desktop\\SigmaSoftwareHomework\\Push\\SigmaSoftwareHomeworks\\Task_6\\Task_6.csproj",
       "packagesPath": "C:\\Users\\SerGun\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SerGun\\Desktop\\SigmaSoftwareHomework\\Homeworks\\Task_6\\obj\\",
+      "outputPath": "C:\\Users\\SerGun\\Desktop\\SigmaSoftwareHomework\\Push\\SigmaSoftwareHomeworks\\Task_6\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SerGun\\Desktop\\SigmaSoftwareHomework\\Homeworks_temp\\Task_6_2\\Task_6_2.csproj": {}
+    "C:\\Users\\SerGun\\Desktop\\SigmaSoftwareHomework\\Push\\SigmaSoftwareHomeworks\\Task_6_2\\Task_6_2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SerGun\\Desktop\\SigmaSoftwareHomework\\Homeworks_temp\\Task_6_2\\Task_6_2.csproj": {
+    "C:\\Users\\SerGun\\Desktop\\SigmaSoftwareHomework\\Push\\SigmaSoftwareHomeworks\\Task_6_2\\Task_6_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SerGun\\Desktop\\SigmaSoftwareHomework\\Homeworks_temp\\Task_6_2\\Task_6_2.csproj",
+        "projectUniqueName": "C:\\Users\\SerGun\\Desktop\\SigmaSoftwareHomework\\Push\\SigmaSoftwareHomeworks\\Task_6_2\\Task_6_2.csproj",
         "projectName": "Task_6_2",
-        "projectPath": "C:\\Users\\SerGun\\Desktop\\SigmaSoftwareHomework\\Homeworks_temp\\Task_6_2\\Task_6_2.csproj",
+        "projectPath": "C:\\Users\\SerGun\\Desktop\\SigmaSoftwareHomework\\Push\\SigmaSoftwareHomeworks\\Task_6_2\\Task_6_2.csproj",
         "packagesPath": "C:\\Users\\SerGun\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SerGun\\Desktop\\SigmaSoftwareHomework\\Homeworks_temp\\Task_6_2\\obj\\",
+        "outputPath": "C:\\Users\\SerGun\\Desktop\\SigmaSoftwareHomework\\Push\\SigmaSoftwareHomeworks\\Task_6_2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
